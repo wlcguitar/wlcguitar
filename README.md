@@ -1,6 +1,5 @@
 ### Olá tudo bem? 👋
-Meu nome e Wallace Sousa
-- Atualmente não trabalho na área de TI, pretendo estar atuando como backend 
+Meu nome e Wallace Sousa 
 - 🌱 Graduando em analise e desenvolvimento de sistemas em paralelo tenho estudo, algoritmos e logica de programação, Python, banco de dados e versionamento de softwares
 <div align="center">
   <a href="https://github.com/wlcguitar">
